@@ -1,0 +1,2 @@
+# newsFeed
+open index.html
